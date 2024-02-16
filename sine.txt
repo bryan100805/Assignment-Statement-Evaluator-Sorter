@@ -1,0 +1,2 @@
+*** Statements with value=> -0.9938886539233752
+y=(\sin[80])
